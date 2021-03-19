@@ -133,3 +133,8 @@ car3.changeEngine(to: .on)
 
 car4.km = 500
 
+
+print(car: car1)
+print(car: car2)
+print(car: car3)
+print("Пробег: \(car4.km)")
